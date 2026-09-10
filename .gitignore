@@ -1,3 +1,10 @@
 data/
 .env
 .DS_Store
+node_modules/
+.test-data/
+test-results/
+playwright-report/
+*.sqlite
+*.sqlite-*
+*.sqlite.lock
